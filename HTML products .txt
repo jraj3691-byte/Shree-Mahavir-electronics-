@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Products - Shree Mahavir Electronics</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Shree Mahavir Electronics</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="offers.html">Offers</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<section class="hero">
+<h2>Our Products</h2>
+<p>Best Brands at Best Prices</p>
+</section>
+
+<section class="products">
+
+<div class="card">📺 Smart TVs<br>Samsung • LG • Sony</div>
+
+<div class="card">❄️ Air Conditioners<br>Daikin • Voltas • Blue Star</div>
+
+<div class="card">🧊 Refrigerators<br>LG • Whirlpool • Haier</div>
+
+<div class="card">🧺 Washing Machines<br>IFB • Bosch • Samsung</div>
+
+<div class="card">📱 Smartphones<br>Apple • Vivo • Oppo • Xiaomi</div>
+
+<div class="card">💻 Laptops<br>HP • Dell • Lenovo • Acer</div>
+
+<div class="card">🍳 Kitchen Appliances<br>Mixer • Microwave • Induction</div>
+
+<div class="card">🌀 Fans & Coolers<br>Havells • Usha • Crompton</div>
+
+</section>
+
+<footer>
+<p>© 2026 Shree Mahavir Electronics. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>

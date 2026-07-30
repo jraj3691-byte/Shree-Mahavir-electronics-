@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Offers - Shree Mahavir Electronics</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Shree Mahavir Electronics</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="about.html">About</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<section class="hero">
+<h2>Latest Offers</h2>
+<p>Grab the Best Deals Today!</p>
+</section>
+
+<section class="products">
+
+<div class="card">
+<h3>📺 Smart TV Offer</h3>
+<p>Up to 30% OFF</p>
+</div>
+
+<div class="card">
+<h3>❄️ Air Conditioner</h3>
+<p>Free Installation</p>
+</div>
+
+<div class="card">
+<h3>🧊 Refrigerator</h3>
+<p>Exchange Bonus Available</p>
+</div>
+
+<div class="card">
+<h3>📱 Smartphones</h3>
+<p>No Cost EMI Available</p>
+</div>
+
+<div class="card">
+<h3>💻 Laptops</h3>
+<p>Special Student Discount</p>
+</div>
+
+<div class="card">
+<h3>🧺 Washing Machines</h3>
+<p>Free Delivery</p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Shree Mahavir Electronics. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
