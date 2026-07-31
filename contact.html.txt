@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact Us - Shree Mahavir Electronics</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+<h1>Shree Mahavir Electronics</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="products.html">Products</a>
+<a href="offers.html">Offers</a>
+<a href="about.html">About</a>
+</nav>
+
+</header>
+
+<section class="hero">
+<h2>Contact Us</h2>
+<p>We're here to help you with all your electronics needs.</p>
+</section>
+
+<section class="products">
+
+<div class="card">
+<h3>📍 Address</h3>
+<p>Shree Mahavir Electronics<br>Your City, India</p>
+</div>
+
+<div class="card">
+<h3>📞 Phone</h3>
+<p>+91 98765 43210</p>
+</div>
+
+<div class="card">
+<h3>📧 Email</h3>
+<p>info@shreemahavir.com</p>
+</div>
+
+<div class="card">
+<h3>💬 WhatsApp</h3>
+<p><a href="https://wa.me/919876543210">Chat on WhatsApp</a></p>
+</div>
+
+</section>
+
+<section style="padding:40px; text-align:center;">
+<h2>Send an Enquiry</h2>
+
+<form style="max-width:500px; margin:auto;">
+<input type="text" placeholder="Your Name" required style="width:100%;padding:12px;margin:10px 0;"><br>
+
+<input type="email" placeholder="Your Email" required style="width:100%;padding:12px;margin:10px 0;"><br>
+
+<input type="tel" placeholder="Your Phone" required style="width:100%;padding:12px;margin:10px 0;"><br>
+
+<textarea placeholder="Your Message" rows="5" style="width:100%;padding:12px;margin:10px 0;"></textarea><br>
+
+<button class="btn" type="submit">Send Message</button>
+</form>
+
+</section>
+
+<footer>
+<p>© 2026 Shree Mahavir Electronics. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
